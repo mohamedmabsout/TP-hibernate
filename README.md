@@ -1,10 +1,9 @@
 # tp-hibernate
-Dans ce repo vous allez trouver les solutions des exercices suivants:
 
 - `H1`: l'exercice 1.
-- `gestion_de_stock`: l'exercice 2.
-- `gestion_de_projet`: l'exercice 3.
-- `gestion_de_etat_civil`: le travail a faire 
+- `Hiber2: l'exercice 2.
+- `Hiber3: l'exercice 3.
+- `TAR`: le travail a faire 
 
 ## H1
 Le projet H1 vise à créer une application de gestion de produits. Il comprend les fonctionnalités suivantes :
